@@ -1,3 +1,10 @@
+Deployed at - (https://jade-blini-b5042d.netlify.app/)
+
+![Screenshot (51)](https://user-images.githubusercontent.com/57281589/178340721-22b25cf5-6ac5-4f40-8e04-83e160a0d0dd.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/57281589/178340759-30918074-8b7a-4bfa-9b98-f40c6d8dccb0.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
